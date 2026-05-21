@@ -1,0 +1,6 @@
+username: stellakara_i0StQh
+key: K7idG7hRMwfjsxpBHH3W
+
+Android app ID: bs://e8b31bdf8b0c1a11b5db394498c792680bb88b3f
+
+iOS app ID: 5aa7d94a3970901801502661ca5dfad802000eeb
